@@ -15,9 +15,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Alone_xdllll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","INSTAGRAM_MUSIC_XD_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME","Jani_Music_Robot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -32,7 +32,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7931228880))
+OWNER_ID = int(getenv("OWNER_ID", 7995626429))
 
 # make your bots privacy from telegra.ph and put your url here 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
@@ -54,7 +54,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THUNDERDEVS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CRAZY_OP_02")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIP_RAM_HACKER_PR")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -92,10 +92,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/67fpo2.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/zjyrer.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/iiw5rn.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/zjyrer.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/8ff7a386f161aea9ed5fb.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
